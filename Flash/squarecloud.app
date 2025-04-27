@@ -1,0 +1,6 @@
+DISPLAY_NAME=Cyans Apps
+MAIN=index.js
+VERSION=recommended
+MEMORY=256
+AUTORESTART=true
+DESCRIPTION= Cyans Apps

@@ -1,0 +1,26 @@
+{
+    "pagamentos": {
+        "MpAPI": "",
+        "SemiAutomatico": {
+            "status": true,
+            "pix": "Bzbdbx",
+            "msg": "Ns"
+        }
+    },
+    "ConfigRoles": {
+        "cargoadm": "1325021168243183676",
+        "cargosup": "1325021168243183676",
+        "cargoCliente": "1325021168243183676",
+        "cargomembro": "1329153951156932650"
+    },
+    "ConfigChannels": {
+        "eventbuy": "1329682995824562231",
+        "logpedidos": "1329682995824562231",
+        "systemlogs": "1329682995824562231"
+    },
+    "Entradas": {
+        "msg": "",
+        "tempo": "",
+        "channelid": []
+    }
+}
